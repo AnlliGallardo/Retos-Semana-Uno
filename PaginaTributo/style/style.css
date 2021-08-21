@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2? family=Arenas movedizas:wght@500&display=swap');
+
+body{
+    font-family: 'Arenas movedizas', sans-serif;
+    font-size: 30px;
+    color: black;
+    border: 10px double #5700fa;
+    text-align: center;
+    background-color: #b391f3;
+}
+
+.container{
+  font-size: 20px;
+}
+
+header{
+  width: 90%;
+  height: 100vh;
+  background-image: url('https://th.bing.com/th/id/OIP.PpTljD2KUXm38Yu9VuAgHAHaEK?pid=ImgDet&rs=1');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  font-size: 10px;
+  margin-left: 50px;
+  border-radius: 20px;
+}
+
+h1{
+    text-align: center;
+    color: #ae89f3;
+    font-family: 'Arenas movedizas', sans-serif;
+    font-weight: bold;
+}
+
+.parte2{
+    text-align: center;
+    color: #b391f3;
+    font-family: 'Arenas movedizas', sans-serif;
+    font-weight:bold;
+    margin-left: 450px;
+}
+
+.principal{
+  text-align: left;
+  margin: 30px;
+}
+
+.principal p{
+  margin: 30px;
+  text-align: left;
+}
+
+.principal ul{
+  border: 2px dotted  #7d3ff1;
+
+  padding: 30px;
+  text-align: left;
+  color: black;
+}
+
+.principal li{
+    color: #ae89f3;
+    
+}
+
+footer{
+  background-color: #003638(4, 4, 30);
+  color: black;
+  text-align: center;
+  padding: 30px;
+  font-size: 20px;
+  border: 3px double #16dae0(6, 6, 6);
+}
